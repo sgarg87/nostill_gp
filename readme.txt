@@ -12,4 +12,12 @@ Published Papers
 Garg, Sahil, Amarjeet Singh, and Fabio Ramos. "Learning Non-Stationary Space-Time Models for Environmental Monitoring." Twenty-Sixth AAAI Conference on Artificial Intelligence. 2012.
 
 Garg, Sahil, Amarjeet Singh, and Fabio Ramos. "Efficient space-time modeling for informative sensing." Proceedings of the Sixth International Workshop on Knowledge Discovery from Sensor Data. ACM, 2012.
+
+Note: if the above code is useful, it is recommended to cite the above published papers.
+
+Feel free to contact me.
+
+Sahil Garg
+sahilgar@usc.edu
+www-scf.usc.edu/~sahilgar/
  
